@@ -79,3 +79,4 @@ mvn install
 
 ### Run the following command to deploy your Maven package to Artifactory:
 mvn deploy
+
